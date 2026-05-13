@@ -36,24 +36,25 @@ This application allows users to fetch live stock market data, visualize trends 
 
 ## Dashboard & Candlestick Chart
 
-![Dashboard](screenshots/Real_time_stock_analysis_Dash_board.png)
+![Dashboard](screenshots/Real%20time%20stock%20analysis%20Dash%20board.png)
+![Candlestick](screenshots/Candle%20Chart.png)
 
 ---
 
 ## Volume Analysis
 
-![Volume](screenshots/barchart_plotly.png)
+![Volume Chart](screenshots/barchart%20plotly.png)
 
 ---
 
 ## AI-Powered Analysis
 
-![AI Analysis](screenshots/groq_ai_review.png)
+![AI Analysis](screenshots/groq%20ai%20review.png)
 
 ---
 
 ## Redis Desktop Manager Cache
-![Redis Cache](redis_real_time_stock_analysis.png)
+![Redis](screenshots/redis%20real%20time%20stock%20analysis.png)
 
 ---
 
